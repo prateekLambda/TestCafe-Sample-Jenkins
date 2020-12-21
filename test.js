@@ -9,4 +9,4 @@ test("Should have a title", async page => {
     await page
         .expect(title.innerText)
         .eql('Cross Browser Testing Cloud');
-})
+});
