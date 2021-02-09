@@ -20,6 +20,7 @@
     "testcafe": "^1.9.3"
   },
   "dependencies": {
-    "testcafe-browser-provider-lambdatest": "^2.0.3"
+    "testcafe-browser-provider-lambdatest": "^2.0.2",
+    "@lambdatest/node-tunnel": "2.0.2"
   }
 }
